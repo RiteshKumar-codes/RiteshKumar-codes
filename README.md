@@ -42,20 +42,32 @@
 * Git
 * GitHub
 * VS Code
+* Postman
 
 ## 📂 Featured Projects
 
-### Online Voting System
+Online Voting System | Academic Project
+SCRIET
+Tech : HTML, CSS, JavaScript, MySQL
+07/2025 - 12/2025
+• Designed and developed a full-stack Online Voting System that allows authenticated users to securely
+cast votes online.
+• Implemented OTP-based email verification to ensure voter authenticity and prevent unauthorized
+access.
+• Integrated MySQL database for voter registration, candidate management, vote storage, and result
+processing.
+• Automated election result generation and enforced one-vote-per-user functionality.
+• Created UML diagrams, test cases, and system documentation following the Software Development
+Life Cycle (SDLC)
 
-A secure web-based voting platform with user authentication and vote management features.
-
-### Portfolio Website
-
-Personal portfolio showcasing projects, skills, and achievements.
-
-### Java Projects
-
-Collection of Java-based applications and problem-solving programs.
+Prison Management System | Academic Project
+SCRIET
+Tech: HTML, CSS, JavaScript, Bootstrap, MySQL, Visual Studio Code
+07/2024 - 12/2024
+• Developed a web-based Prison Management System to manage prisoner records, staff details, and
+visitor information.
+• Implemented CRUD operations and secure user authentication.
+• Designed and integrated a MySQL database for efficient data management.
 
 ## 🌱 Currently Learning
 
